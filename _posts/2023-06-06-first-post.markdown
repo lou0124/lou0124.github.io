@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "first-post"
-date:   2023-06-07 18:16:36 +0530
+date:   2023-06-06 18:16:36 +0530
 #categories: Javascript NodeJS
 ---
 첫 포스트
