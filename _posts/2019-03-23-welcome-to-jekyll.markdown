@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "나의 깃 블로그"
+title:  "welcome-to-jekyll"
 date:   2019-03-23 21:03:36 +0530
 #categories: Javascript NodeJS
 ---
