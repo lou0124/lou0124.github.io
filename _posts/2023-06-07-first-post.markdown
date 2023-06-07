@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "welcome-to-jekyll"
+title:  "first-post"
 date:   2023-06-07 18:16:36 +0530
 #categories: Javascript NodeJS
 ---
