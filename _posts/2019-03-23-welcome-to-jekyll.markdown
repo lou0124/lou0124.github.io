@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "나의 깃 블로그"
-#date:   2019-03-23 21:03:36 +0530
+date:   2019-03-23 21:03:36 +0530
 #categories: Javascript NodeJS
 ---
 깃 블로그 시작!
