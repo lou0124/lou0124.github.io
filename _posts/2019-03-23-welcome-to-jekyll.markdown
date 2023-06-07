@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "welcome-to-jekyll"
-date:   2019-03-23 21:03:36 +0530
+date:   2023-06-07 18:16:36 +0530
 #categories: Javascript NodeJS
 ---
-깃 블로그 시작!
+첫 포스트
 
 <!-- ```javascript
 const Razorpay = require('razorpay');
@@ -21,7 +21,7 @@ rzp.capture(payment_id, cost)
 	})
 ``` -->
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+첫 포스팅 입니다.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
